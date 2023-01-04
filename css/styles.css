@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+  color:gray;
+}
+body{
+  color: white;
+}
+.navbar-brand{
+  font-size: 40px;
+  
+}
+.navbar-toggle{
+  background-color: white;
+}
+#header-nav{
+  border-radius: 0;
+  border: 0;
+  background-color: aquamarine;
+  padding: 20px;
+}
+h1{
+  color: gray;
+  margin-bottom: 20px;
+}
+p{
+  margin-top: 10px;
+  font-size: 20px;
+}
+#Chicken{
+  background-color: aquamarine;
+}
+#Beef{
+  background-color: aquamarine;
+}
+
+#Sushi{
+  background-color: aquamarine;
+}
